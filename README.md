@@ -64,7 +64,3 @@ Regardless using the search bar and discover screen provided by Kibana and packe
  -Identify the brute force attack 
  -Find the WebDAV connection 
  -Identify the reverse shell and meterpreter traffic 
-
-
-
-
