@@ -38,14 +38,14 @@ Restarted the system to make sure the changes are operational:
 
 Red Team Instructions:
 
- -Discover the IP address of the Linux web server
- -Locate the hidden directory on the web server
- -Brute force the password for the hidden directory using Hydra
- -Break the hashed password with the Crack Station website or John the Ripper
- -Connect to the server via WebDAV
- -Upload a PHP reverse shell payload
- -Execute payload to open up a meterpreter session
- -Find and capture the flag
+ 1. Discover the IP address of the Linux web server
+ 2. Locate the hidden directory on the web server
+ 3. Brute force the password for the hidden directory using Hydra
+ 4. Break the hashed password with the Crack Station website or John the Ripper
+ 5. Connect to the server via WebDAV
+ 6. Upload a PHP reverse shell payload
+ 7. Execute payload to open up a meterpreter session
+ 8. Find and capture the flag
 
 
 
@@ -59,8 +59,8 @@ Not all tactics used got picked up and that was the real eye opener. Seeing what
 
 Regardless using the search bar and discover screen provided by Kibana and packetbeat I was able to complete the following objectives:
 
- -Identify the offensive traffic 
- -Find the request for the hidden directory 
- -Identify the brute force attack 
- -Find the WebDAV connection 
- -Identify the reverse shell and meterpreter traffic 
+ 1. Identify the offensive traffic 
+ 2. Find the request for the hidden directory 
+ 3. Identify the brute force attack 
+ 4. Find the WebDAV connection 
+ 5. Identify the reverse shell and meterpreter traffic 
