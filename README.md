@@ -12,10 +12,10 @@ On the Blue side, I used Kibana as my main asset to review logs from the attack 
 Project Objectives:
 
 In this project I used knowledge and information pertaining to:
--Penetration testing using a Kali Linux os
--Log and incident analysis with Kibana
--System hardening and configuration
--Reporting, documentation, and communication
+1. Penetration testing using a Kali Linux os
+2. Log and incident analysis with Kibana
+3. System hardening and configuration
+4. Reporting, documentation, and communication
 
 
 Lab Environment:
