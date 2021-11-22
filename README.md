@@ -59,11 +59,11 @@ Not all tactics used got picked up and that was the real eye opener. Seeing what
 
 Regardless using the search bar and discover screen provided by Kibana and packetbeat I was able to complete the following objectives:
 
- -Identify the offensive traffic
- -Find the request for the hidden directory
- -Identify the brute force attack
- -Find the WebDAV connection
- -Identify the reverse shell and meterpreter traffic
+ -Identify the offensive traffic 
+ -Find the request for the hidden directory 
+ -Identify the brute force attack 
+ -Find the WebDAV connection 
+ -Identify the reverse shell and meterpreter traffic 
 
 
 
